@@ -1,0 +1,201 @@
+Product ID,Product Name,Category,Price,Rating
+1,Product 1,Fashion,112,5
+2,Product 2,Fashion,445,5
+3,Product 3,Home Goods,870,3
+4,Product 4,Fashion,280,5
+5,Product 5,Electronics,116,4
+6,Product 6,Sports,81,5
+7,Product 7,Beauty,710,3
+8,Product 8,Fashion,30,3
+9,Product 9,Electronics,624,4
+10,Product 10,Beauty,131,2
+11,Product 11,Sports,476,2
+12,Product 12,Beauty,224,5
+13,Product 13,Electronics,340,1
+14,Product 14,Beauty,468,5
+15,Product 15,Home Goods,97,4
+16,Product 16,Beauty,382,4
+17,Product 17,Fashion,109,4
+18,Product 18,Fashion,881,4
+19,Product 19,Home Goods,673,4
+20,Product 20,Electronics,140,3
+21,Product 21,Fashion,671,2
+22,Product 22,Sports,318,4
+23,Product 23,Fashion,779,1
+24,Product 24,Fashion,353,1
+25,Product 25,Electronics,501,1
+26,Product 26,Beauty,423,1
+27,Product 27,Fashion,815,3
+28,Product 28,Home Goods,395,1
+29,Product 29,Beauty,201,4
+30,Product 30,Sports,965,5
+31,Product 31,Electronics,286,1
+32,Product 32,Sports,170,3
+33,Product 33,Beauty,469,3
+34,Product 34,Beauty,323,1
+35,Product 35,Beauty,31,5
+36,Product 36,Sports,262,1
+37,Product 37,Beauty,757,3
+38,Product 38,Sports,866,2
+39,Product 39,Beauty,570,4
+40,Product 40,Home Goods,484,3
+41,Product 41,Beauty,68,1
+42,Product 42,Sports,520,4
+43,Product 43,Fashion,691,1
+44,Product 44,Beauty,485,1
+45,Product 45,Fashion,709,2
+46,Product 46,Home Goods,985,4
+47,Product 47,Electronics,792,4
+48,Product 48,Home Goods,199,2
+49,Product 49,Beauty,967,3
+50,Product 50,Fashion,696,1
+51,Product 51,Fashion,967,5
+52,Product 52,Sports,572,1
+53,Product 53,Fashion,885,1
+54,Product 54,Sports,576,3
+55,Product 55,Electronics,253,1
+56,Product 56,Beauty,841,2
+57,Product 57,Sports,514,2
+58,Product 58,Electronics,140,4
+59,Product 59,Fashion,494,5
+60,Product 60,Fashion,828,1
+61,Product 61,Electronics,656,1
+62,Product 62,Fashion,30,3
+63,Product 63,Electronics,850,2
+64,Product 64,Sports,176,5
+65,Product 65,Sports,283,4
+66,Product 66,Electronics,397,2
+67,Product 67,Sports,610,4
+68,Product 68,Sports,325,3
+69,Product 69,Sports,23,3
+70,Product 70,Home Goods,251,1
+71,Product 71,Beauty,786,5
+72,Product 72,Fashion,355,4
+73,Product 73,Home Goods,574,2
+74,Product 74,Sports,907,3
+75,Product 75,Electronics,349,1
+76,Product 76,Sports,101,1
+77,Product 77,Beauty,376,4
+78,Product 78,Sports,965,3
+79,Product 79,Electronics,464,5
+80,Product 80,Beauty,437,3
+81,Product 81,Sports,518,4
+82,Product 82,Beauty,785,4
+83,Product 83,Fashion,952,3
+84,Product 84,Fashion,44,4
+85,Product 85,Sports,215,3
+86,Product 86,Beauty,90,2
+87,Product 87,Electronics,941,3
+88,Product 88,Sports,571,3
+89,Product 89,Fashion,881,4
+90,Product 90,Fashion,397,4
+91,Product 91,Sports,11,1
+92,Product 92,Beauty,399,1
+93,Product 93,Fashion,575,2
+94,Product 94,Beauty,115,1
+95,Product 95,Fashion,781,3
+96,Product 96,Fashion,831,4
+97,Product 97,Home Goods,486,1
+98,Product 98,Fashion,712,1
+99,Product 99,Electronics,411,2
+100,Product 100,Sports,739,2
+101,Product 101,Sports,565,3
+102,Product 102,Beauty,171,4
+103,Product 103,Fashion,211,2
+104,Product 104,Electronics,967,1
+105,Product 105,Beauty,279,4
+106,Product 106,Home Goods,872,4
+107,Product 107,Beauty,825,1
+108,Product 108,Beauty,280,2
+109,Product 109,Fashion,465,1
+110,Product 110,Home Goods,471,4
+111,Product 111,Beauty,736,5
+112,Product 112,Electronics,261,5
+113,Product 113,Electronics,711,3
+114,Product 114,Sports,305,1
+115,Product 115,Home Goods,734,1
+116,Product 116,Home Goods,729,3
+117,Product 117,Sports,758,3
+118,Product 118,Beauty,347,3
+119,Product 119,Home Goods,888,4
+120,Product 120,Electronics,62,1
+121,Product 121,Electronics,801,4
+122,Product 122,Fashion,931,3
+123,Product 123,Home Goods,226,1
+124,Product 124,Beauty,773,4
+125,Product 125,Sports,197,4
+126,Product 126,Sports,389,3
+127,Product 127,Beauty,502,1
+128,Product 128,Fashion,50,3
+129,Product 129,Sports,166,1
+130,Product 130,Home Goods,24,5
+131,Product 131,Fashion,822,2
+132,Product 132,Home Goods,74,2
+133,Product 133,Electronics,866,2
+134,Product 134,Fashion,848,3
+135,Product 135,Sports,530,5
+136,Product 136,Fashion,353,1
+137,Product 137,Fashion,138,4
+138,Product 138,Fashion,657,1
+139,Product 139,Fashion,481,4
+140,Product 140,Home Goods,72,1
+141,Product 141,Electronics,148,5
+142,Product 142,Beauty,508,4
+143,Product 143,Fashion,602,3
+144,Product 144,Sports,401,1
+145,Product 145,Fashion,684,1
+146,Product 146,Sports,428,4
+147,Product 147,Home Goods,298,3
+148,Product 148,Sports,388,3
+149,Product 149,Beauty,782,5
+150,Product 150,Electronics,499,3
+151,Product 151,Sports,240,3
+152,Product 152,Sports,50,3
+153,Product 153,Electronics,37,2
+154,Product 154,Beauty,144,5
+155,Product 155,Fashion,210,1
+156,Product 156,Sports,849,4
+157,Product 157,Electronics,789,1
+158,Product 158,Home Goods,939,5
+159,Product 159,Electronics,42,4
+160,Product 160,Home Goods,57,5
+161,Product 161,Beauty,512,3
+162,Product 162,Fashion,416,4
+163,Product 163,Electronics,583,3
+164,Product 164,Sports,737,1
+165,Product 165,Beauty,814,1
+166,Product 166,Electronics,108,4
+167,Product 167,Sports,693,4
+168,Product 168,Electronics,881,5
+169,Product 169,Home Goods,735,5
+170,Product 170,Electronics,996,3
+171,Product 171,Electronics,556,4
+172,Product 172,Electronics,970,1
+173,Product 173,Beauty,748,5
+174,Product 174,Electronics,622,5
+175,Product 175,Sports,952,1
+176,Product 176,Home Goods,471,5
+177,Product 177,Home Goods,652,3
+178,Product 178,Electronics,778,4
+179,Product 179,Beauty,14,1
+180,Product 180,Beauty,227,4
+181,Product 181,Sports,512,5
+182,Product 182,Electronics,776,5
+183,Product 183,Home Goods,407,1
+184,Product 184,Beauty,880,3
+185,Product 185,Electronics,804,2
+186,Product 186,Beauty,402,1
+187,Product 187,Beauty,216,2
+188,Product 188,Home Goods,24,2
+189,Product 189,Fashion,867,3
+190,Product 190,Sports,563,2
+191,Product 191,Sports,901,2
+192,Product 192,Home Goods,470,3
+193,Product 193,Beauty,700,2
+194,Product 194,Electronics,584,2
+195,Product 195,Beauty,873,2
+196,Product 196,Home Goods,752,1
+197,Product 197,Sports,250,1
+198,Product 198,Beauty,573,1
+199,Product 199,Sports,105,3
+200,Product 200,Electronics,909,5
